@@ -1,13 +1,12 @@
 Postman-Token -- Calculated when request is sent
-
 - Genereted by Postman for each request is unique
-  Host -- Calculated when request is sent
+Host -- Calculated when request is sent
 - Specifies domain name
-  User-Agent -- PostmanRuntime/7.43.0
+User-Agent -- PostmanRuntime/7.43.0
 - Identifies the client application making the request
-  Accept -- _/_
+Accept -- */*
 - Can accept any media
-  Accept-Encoding -- gzip, deflate, br
+Accept-Encoding -- gzip, deflate, br
 - The compression and encodings which the client can accept in the response
-  Connection -- keep-alive
+Connection -- keep-alive
 - Keeps TCP connection open after the request is sent
